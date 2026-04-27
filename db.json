@@ -1,0 +1,1130 @@
+{
+    "hero-section": [
+        {
+            "title": "Spring Fashion Trends Take Over 2026",
+            "publish_date": "2026-03-15",
+            "author_publisher": "Daily Style News",
+            "category": "fashion",
+            "image": "https://picsum.photos/id/1011/800/600.jpg"
+        },
+        {
+            "title": "Top 10 Gadgets You Need This Year",
+            "publish_date": "2026-02-10",
+            "author_publisher": "TechWorld Media",
+            "category": "gadget",
+            "image": "https://picsum.photos/id/180/800/600.jpg"
+        },
+        {
+            "title": "Exploring the Hidden Beaches of Southeast Asia",
+            "publish_date": "2026-01-25",
+            "author_publisher": "Global Travel Guide",
+            "category": "travels",
+            "image": "https://picsum.photos/id/1015/800/600.jpg"
+        },
+        {
+            "title": "Full Review of the Latest Smartphone Release",
+            "publish_date": "2026-04-05",
+            "author_publisher": "Gadget Review Weekly",
+            "category": "review",
+            "image": "https://picsum.photos/id/0/800/600.jpg"
+        }
+    ],
+    "not-miss": [
+        {
+            "title": "Global AI Breakthrough Changes Healthcare Diagnosis",
+            "publish_date": "2026-04-20",
+            "author_publisher": "World Tech Daily",
+            "category": "technology",
+            "description": "Scientists have developed a new AI system that can detect diseases early with higher accuracy, transforming healthcare diagnostics worldwide.",
+            "image": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc"
+        },
+        {
+            "title": "European Rail Travel Sees Massive Boom in 2026",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Global Travel Report",
+            "category": "travel",
+            "description": "Train travel across Europe is rapidly increasing as tourists prefer scenic, eco-friendly journeys over flights.",
+            "image": "https://images.unsplash.com/photo-1505778276668-26b3ff7af103"
+        },
+        {
+            "title": "Japan Opens New Luxury Mountain Resort for Travelers",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Asia Travel Daily",
+            "category": "travel",
+            "description": "A new high-end mountain resort in Japan offers breathtaking views, hot springs, and traditional cultural experiences.",
+            "image": "https://images.unsplash.com/photo-1492571350019-22de08371fd3"
+        },
+        {
+            "title": "Budget Travel Hacks: Explore the World for Less in 2026",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Wander Smart Magazine",
+            "category": "travel",
+            "description": "Experts share practical tips for traveling globally on a budget, including cheap flights, hostels, and off-season planning.",
+            "image": "https://images.unsplash.com/photo-1528127269322-539801943592"
+        },
+        {
+            "title": "Iceland Becomes Top Destination for Northern Lights Tourism",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Nature Travel Weekly",
+            "category": "travel",
+            "description": "Iceland is experiencing a tourism surge as travelers flock to witness the breathtaking Northern Lights.",
+            "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        },
+        {
+            "title": "Digital Nomad Lifestyle Expands Across Southeast Asia",
+            "publish_date": "2026-04-17",
+            "author_publisher": "Remote Life Journal",
+            "category": "travel",
+            "description": "More remote workers are choosing Southeast Asia as their base due to low costs, strong internet, and vibrant culture.",
+            "image": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff"
+        },
+        {
+            "title": "Major Football Championship Final Ends in Dramatic Penalty Shootout",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Sports Network Global",
+            "category": "sports",
+            "description": "A thrilling final match was decided by penalties after both teams remained tied through extra time.",
+            "image": "https://thumbs.dreamstime.com/b/all-sports-balls-stadium-d-imaginary-sport-modelled-rendered-78672313.jpg"
+        },
+        {
+            "title": "Champions League Final Ends in Stunning Last-Minute Goal",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Global Sports Network",
+            "category": "sports",
+            "description": "The Champions League final was decided in the dying seconds as a dramatic goal secured victory for the underdogs.",
+            "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2"
+        },
+        {
+            "title": "Cricket World Cup Preparations Enter Final Phase",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Cricket Today",
+            "category": "sports",
+            "description": "Teams are intensifying training as the upcoming Cricket World Cup approaches, with squads finalizing their lineups.",
+            "image": "https://images.unsplash.com/photo-1593766788306-28561086694e"
+        },
+        {
+            "title": "Olympic Athletes Break Multiple Records in Trial Events",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Olympic Sports Daily",
+            "category": "sports",
+            "description": "Several athletes have set new records during Olympic trial events, raising expectations for the upcoming games.",
+            "image": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d"
+        },
+        {
+            "title": "NBA Finals Series Goes to Decisive Game Seven",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Basketball Insider",
+            "category": "sports",
+            "description": "After a tightly contested series, the NBA Finals will be decided in a thrilling Game Seven showdown.",
+            "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b"
+        },
+        {
+            "title": "Marathon Runners Brave Extreme Heat in Championship Race",
+            "publish_date": "2026-04-17",
+            "author_publisher": "Athletics World News",
+            "category": "sports",
+            "description": "Elite runners pushed through extreme heat conditions to complete one of the toughest marathon races of the year.",
+            "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635"
+        },
+        {
+            "title": "Stock Markets Surge After Unexpected Economic Growth Report",
+            "publish_date": "2026-04-15",
+            "author_publisher": "Financial Times Update",
+            "category": "business",
+            "description": "Markets worldwide rallied after new data showed stronger-than-expected economic growth.",
+            "image": "https://www.shutterstock.com/image-photo/two-happy-busy-middle-aged-600nw-2479065515.jpg"
+        },
+        {
+            "title": "Global Tech Companies Announce Major AI Investment Plans",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Business World Daily",
+            "category": "business",
+            "description": "Leading tech giants are investing billions into artificial intelligence development, aiming to expand automation and productivity tools worldwide.",
+            "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a"
+        },
+        {
+            "title": "Stock Markets Hit Record Highs Amid Economic Growth",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Financial Times Update",
+            "category": "business",
+            "description": "Global stock markets surged to record levels following strong economic growth reports and increased investor confidence.",
+            "image": "https://images.unsplash.com/photo-1559526324-593bc073d938"
+        },
+        {
+            "title": "Startups Attract Massive Funding in Green Energy Sector",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Startup Business Weekly",
+            "category": "business",
+            "description": "Green energy startups are seeing unprecedented investment as companies shift toward sustainable and eco-friendly solutions.",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+        },
+        {
+            "title": "Global Trade Agreements Reshape International Markets",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Economic Review Journal",
+            "category": "business",
+            "description": "New international trade agreements are expected to significantly impact global supply chains and market dynamics.",
+            "image": "https://images.unsplash.com/photo-1581091870622-1e7b0b6f3d0b"
+        },
+        {
+            "title": "Remote Work Economy Continues to Expand Worldwide",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Global Workforce Report",
+            "category": "business",
+            "description": "The remote work trend continues to grow as companies adopt hybrid models and digital-first business strategies.",
+            "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+        },
+        {
+            "title": "Heavy Rains Cause Flooding in Several Coastal Cities",
+            "publish_date": "2026-04-12",
+            "author_publisher": "Global Weather News",
+            "category": "weather",
+            "description": "Severe rainfall has triggered flooding across multiple coastal cities, disrupting transport and daily life.",
+            "image": "https://assamtribune.com/h-upload/2022/03/01/1330873-clouds-weather.webp"
+        },
+        {
+            "title": "New Movie Breaks Box Office Records Worldwide",
+            "publish_date": "2026-04-10",
+            "author_publisher": "Cinema Today",
+            "category": "entertainment",
+            "description": "The latest blockbuster has broken global box office records within its first week of release.",
+            "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba"
+        },
+        {
+            "title": "Breakthrough in Renewable Energy Storage Announced by Scientists",
+            "publish_date": "2026-04-08",
+            "author_publisher": "Science Daily Report",
+            "category": "science",
+            "description": "A new energy storage system promises higher efficiency and faster adoption of renewable energy worldwide.",
+            "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276"
+        }
+    ],
+    "lifestyle": [
+        {
+            "title": "Switzerland’s Alpine Villages Become Top Travel Destination in 2026",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Lifestyle Travel Journal",
+            "category": "travel",
+            "description": "Tourists are flocking to Switzerland’s alpine villages for breathtaking views, peaceful nature, and luxury mountain experiences.",
+            "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        },
+        {
+            "title": "Bali Introduces Eco-Friendly Tourism Zones to Protect Nature",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Global Travel Watch",
+            "category": "travel",
+            "description": "Bali has launched new eco-tourism zones to reduce environmental impact and promote sustainable travel practices.",
+            "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4"
+        },
+        {
+            "title": "Dubai Launches Luxury Desert Night Safari Experience",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Luxury Travel Times",
+            "category": "travel",
+            "description": "Visitors can now enjoy premium desert safaris in Dubai featuring fine dining, stargazing, and cultural performances.",
+            "image": "https://images.unsplash.com/photo-1509316785289-025f5b846b35"
+        },
+        {
+            "title": "Italy Sees Record Tourism in Historic Cities Like Rome and Venice",
+            "publish_date": "2026-04-25",
+            "author_publisher": "European Travel Daily",
+            "category": "travel",
+            "description": "Historic Italian cities are experiencing record tourist arrivals, boosting local economies and cultural tourism.",
+            "image": "https://images.unsplash.com/photo-1526481280695-3c687fd5432c"
+        },
+        {
+            "title": "Thailand Promotes Island Hopping Tours for Adventure Travelers",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Asia Travel Insider",
+            "category": "travel",
+            "description": "New island hopping packages in Thailand attract adventure seekers looking for beaches, snorkeling, and tropical exploration.",
+            "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+        },
+        {
+            "title": "France Expands High-Speed Rail Routes for Tourists",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Travel Infrastructure News",
+            "category": "travel",
+            "description": "France is expanding its high-speed rail network, making it easier for tourists to explore multiple cities quickly.",
+            "image": "https://images.unsplash.com/photo-1471623432079-b009d30b6729"
+        },
+        {
+            "title": "Maldives Resorts Introduce Underwater Villas for Luxury Stay",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Luxury Escape Magazine",
+            "category": "travel",
+            "description": "The Maldives now offers underwater villas, giving travelers a unique experience surrounded by marine life.",
+            "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8"
+        },
+        {
+            "title": "Japan Revives Traditional Rural Tourism for Cultural Experience",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Cultural Travel Weekly",
+            "category": "travel",
+            "description": "Japan is promoting rural tourism, allowing visitors to experience traditional farming villages and local culture.",
+            "image": "https://images.unsplash.com/photo-1491884662610-dfcd28f30cfb"
+        },
+        {
+            "title": "Switzerland Offers Glacier Hiking Tours for Adventure Seekers",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Adventure Travel Journal",
+            "category": "travel",
+            "description": "Guided glacier hiking tours in Switzerland are attracting thrill-seekers from around the world.",
+            "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
+        },
+        {
+            "title": "Greece Boosts Island Tourism with New Ferry Routes",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Mediterranean Travel News",
+            "category": "travel",
+            "description": "New ferry connections make it easier for travelers to explore Greece’s popular and hidden islands.",
+            "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9"
+        },
+        {
+            "title": "South Korea Promotes Seoul Night City Tours for Tourists",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Asia Lifestyle Travel",
+            "category": "travel",
+            "description": "Seoul’s night city tours highlight food streets, cultural landmarks, and vibrant nightlife experiences.",
+            "image": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c"
+        },
+        {
+            "title": "Mediterranean Diet Recipes Gain Popularity for Heart Health",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Healthy Cooking Daily",
+            "category": "recipes",
+            "description": "Nutrition experts recommend Mediterranean-style meals rich in vegetables, olive oil, and fish for improved heart health.",
+            "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061"
+        },
+        {
+            "title": "Avocado Toast Variations Become Global Breakfast Trend",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Healthy Eats Journal",
+            "category": "recipes",
+            "description": "Creative avocado toast recipes with eggs, seeds, and spices are becoming a worldwide breakfast favorite.",
+            "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141"
+        },
+        {
+            "title": "One-Pot Pasta Recipes Gain Popularity for Busy Families",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Home Cooking Daily",
+            "category": "recipes",
+            "description": "Simple one-pot pasta meals are trending as they save time and reduce kitchen cleanup.",
+            "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642"
+        },
+        {
+            "title": "Healthy Smoothie Bowls Dominate Breakfast Trends",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Nutrition & Recipes Weekly",
+            "category": "recipes",
+            "description": "Colorful smoothie bowls packed with fruits, nuts, and seeds are becoming a top health food choice.",
+            "image": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2"
+        },
+        {
+            "title": "Traditional Homemade Bread Recipes Make a Comeback",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Baking Life Magazine",
+            "category": "recipes",
+            "description": "People are returning to traditional bread-making methods for healthier and fresher homemade bread.",
+            "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73"
+        },
+        {
+            "title": "Spicy Asian Street Food Recipes Go Viral Online",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Global Food Trends",
+            "category": "recipes",
+            "description": "Authentic Asian street food recipes are gaining massive popularity on social media platforms.",
+            "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+        },
+        {
+            "title": "Plant-Based Dessert Recipes Attract Health Enthusiasts",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Sweet Vegan Kitchen",
+            "category": "recipes",
+            "description": "Vegan desserts made from natural ingredients are becoming a favorite among health-conscious people.",
+            "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777"
+        },
+        {
+            "title": "Quick 15-Minute Dinner Recipes for Busy Professionals",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Fast Cooking Guide",
+            "category": "recipes",
+            "description": "Easy 15-minute meals are trending as working professionals look for quick and healthy dinner solutions.",
+            "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352"
+        },
+        {
+            "title": "Homemade Pizza Recipes Become a Family Favorite",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Kitchen Stories Daily",
+            "category": "recipes",
+            "description": "Families are enjoying homemade pizza recipes with customizable toppings and fresh ingredients.",
+            "image": "https://images.unsplash.com/photo-1548365328-9f547fb0955b"
+        },
+        {
+            "title": "Healthy Salad Bowl Recipes Rise in Fitness Diets",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Fitness Nutrition News",
+            "category": "recipes",
+            "description": "Protein-rich salad bowls are becoming essential in fitness-focused meal plans.",
+            "image": "https://images.unsplash.com/photo-1550507992-eb63ffee0847"
+        },
+        {
+            "title": "Chocolate Dessert Recipes Go Viral on Social Media",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Dessert Lovers Weekly",
+            "category": "recipes",
+            "description": "Rich chocolate desserts are trending online with millions of recipe shares and cooking videos.",
+            "image": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3"
+        },
+        {
+            "title": "New Study Shows Drinking Water Boosts Brain Performance",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Health Science Today",
+            "category": "health",
+            "description": "Researchers found that proper hydration improves memory, focus, and overall cognitive performance.",
+            "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc"
+        },
+        {
+            "title": "Doctors Confirm Daily Walking Reduces Risk of Heart Disease",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Health Science Daily",
+            "category": "health",
+            "description": "A new global study confirms that walking 30 minutes a day significantly lowers the risk of heart disease and improves overall health.",
+            "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5"
+        },
+        {
+            "title": "Drinking Enough Water Improves Brain Performance, Study Finds",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Medical Health Journal",
+            "category": "health",
+            "description": "Researchers discovered that proper hydration enhances memory, focus, and cognitive performance in adults.",
+            "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc"
+        },
+        {
+            "title": "New Research Shows Benefits of Early Morning Sunlight Exposure",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Wellness Science Report",
+            "category": "health",
+            "description": "Morning sunlight exposure helps regulate sleep cycles, improve mood, and increase vitamin D levels naturally.",
+            "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+        },
+        {
+            "title": "Mental Health Awareness Programs Expand Worldwide",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Global Health News",
+            "category": "health",
+            "description": "Countries are increasing mental health support programs to reduce stress, anxiety, and depression rates.",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773"
+        },
+        {
+            "title": "Doctors Recommend Reducing Screen Time for Better Sleep",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Sleep Health Weekly",
+            "category": "health",
+            "description": "Experts advise limiting screen exposure before bedtime to improve sleep quality and reduce insomnia.",
+            "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+        },
+        {
+            "title": "Balanced Diet Linked to Stronger Immune System",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Nutrition Health Today",
+            "category": "health",
+            "description": "A nutrient-rich balanced diet is proven to strengthen immunity and reduce risk of common illnesses.",
+            "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061"
+        },
+        {
+            "title": "Yoga and Meditation Shown to Reduce Stress Levels",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Mind & Body Journal",
+            "category": "health",
+            "description": "Regular yoga and meditation practice significantly lowers stress and improves mental well-being.",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3"
+        },
+        {
+            "title": "High Sugar Consumption Linked to Rising Health Risks",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Public Health Review",
+            "category": "health",
+            "description": "Excess sugar intake is associated with obesity, diabetes, and other long-term health issues.",
+            "image": "https://images.unsplash.com/photo-1553787434-45e1d245bfbb"
+        },
+        {
+            "title": "Regular Exercise Improves Longevity, Scientists Confirm",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Fitness Health Research",
+            "category": "health",
+            "description": "Consistent physical activity is proven to increase life expectancy and improve quality of life.",
+            "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd"
+        },
+        {
+            "title": "Flu Prevention Campaigns Expand Ahead of Seasonal Outbreak",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Global Disease Control",
+            "category": "health",
+            "description": "Health organizations are launching vaccination and awareness campaigns to prevent seasonal flu outbreaks.",
+            "image": "https://images.unsplash.com/photo-1584515933487-779824d29309"
+        },
+        {
+            "title": "At-Home Yoga Workouts See Massive Rise Worldwide",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Fitness Life Magazine",
+            "category": "fitness",
+            "description": "Yoga-based home workouts are becoming a global trend for improving flexibility, strength, and mental well-being.",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3"
+        },
+        {
+            "title": "Home Workout Routines Become Global Fitness Trend",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Fitness Lifestyle Daily",
+            "category": "fitness",
+            "description": "Bodyweight home workouts are gaining popularity as people focus on convenient and equipment-free fitness routines.",
+            "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438"
+        },
+        {
+            "title": "HIIT Training Shows Faster Fat Loss Results, Experts Say",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Strength & Conditioning Weekly",
+            "category": "fitness",
+            "description": "High-Intensity Interval Training (HIIT) is proven to burn calories quickly and improve cardiovascular health.",
+            "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74"
+        },
+        {
+            "title": "Morning Gym Workouts Linked to Higher Productivity",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Fit Life Journal",
+            "category": "fitness",
+            "description": "Studies show that exercising in the morning improves focus, energy levels, and productivity throughout the day.",
+            "image": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712"
+        },
+        {
+            "title": "Yoga and Strength Training Combination Gains Popularity",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Wellness Fitness News",
+            "category": "fitness",
+            "description": "Fitness experts recommend combining yoga with strength training for better flexibility and muscle balance.",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3"
+        },
+        {
+            "title": "Smart Fitness Trackers Help Users Achieve Health Goals",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Tech Fitness Review",
+            "category": "fitness",
+            "description": "Wearable fitness devices are helping people track steps, calories, and sleep for better health management.",
+            "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+        },
+        {
+            "title": "Strength Training Recommended for Long-Term Health Benefits",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Muscle Science Daily",
+            "category": "fitness",
+            "description": "Experts highlight strength training as essential for bone health, metabolism, and aging well.",
+            "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61"
+        },
+        {
+            "title": "Outdoor Running Clubs See Massive Growth Worldwide",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Active Lifestyle News",
+            "category": "fitness",
+            "description": "Community running groups are growing globally, encouraging social fitness and healthy habits.",
+            "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5"
+        },
+        {
+            "title": "Pilates Workouts Become Popular for Core Strength",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Core Fitness Magazine",
+            "category": "fitness",
+            "description": "Pilates exercises are trending for improving posture, flexibility, and core muscle strength.",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a"
+        },
+        {
+            "title": "Fitness Apps Revolutionize Personal Training at Home",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Digital Fitness Report",
+            "category": "fitness",
+            "description": "Mobile fitness apps are replacing traditional gym plans with personalized workout routines.",
+            "image": "https://images.unsplash.com/photo-1526401485004-2aa7b0d6b1c0"
+        },
+        {
+            "title": "Cycling Becomes Top Choice for Urban Fitness Enthusiasts",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Urban Sports Daily",
+            "category": "fitness",
+            "description": "City residents are increasingly choosing cycling as a fun and effective way to stay fit.",
+            "image": "https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf"
+        },
+        {
+            "title": "Music Streaming Platforms Redefine How People Discover Songs",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Music Culture Daily",
+            "category": "music",
+            "description": "Streaming services are using AI-driven recommendations to help users discover new artists and personalized playlists.",
+            "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+        },
+        {
+            "title": "AI-Generated Music Becomes a Major Trend in 2026",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Music Tech Daily",
+            "category": "music",
+            "description": "Artificial intelligence is now widely used to compose songs, creating new opportunities and debates in the music industry.",
+            "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+        },
+        {
+            "title": "Live Concerts Make Strong Comeback Worldwide",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Global Music Report",
+            "category": "music",
+            "description": "After years of digital dominance, live concerts are back with record-breaking ticket sales and global tours.",
+            "image": "https://images.unsplash.com/photo-1501612780327-45045538702b"
+        },
+        {
+            "title": "Streaming Platforms Change How Artists Release Music",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Digital Music Weekly",
+            "category": "music",
+            "description": "Artists are now releasing singles more frequently on streaming platforms instead of full albums.",
+            "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+        },
+        {
+            "title": "Classical Music Gains Popularity Among Young Listeners",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Culture Sound Journal",
+            "category": "music",
+            "description": "Streaming data shows a surprising rise in classical music listening among younger audiences.",
+            "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0"
+        },
+        {
+            "title": "Music Therapy Helps Reduce Anxiety and Stress Levels",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Wellness Music News",
+            "category": "music",
+            "description": "Studies confirm that music therapy has strong effects in reducing stress and improving emotional health.",
+            "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+        },
+        {
+            "title": "K-Pop Industry Expands Global Influence in 2026",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Asian Music Insider",
+            "category": "music",
+            "description": "K-pop continues to dominate global charts with massive fan engagement and international collaborations.",
+            "image": "https://images.unsplash.com/photo-1521337706264-a414f153a5a9"
+        },
+        {
+            "title": "Vinyl Records See Unexpected Revival in Music Market",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Retro Sound Magazine",
+            "category": "music",
+            "description": "Vinyl sales are rising as listeners seek a nostalgic and high-quality audio experience.",
+            "image": "https://images.unsplash.com/photo-1513829596324-4bb2800c5efb"
+        },
+        {
+            "title": "Music Festivals Attract Millions Across Europe",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Festival Beat News",
+            "category": "music",
+            "description": "Major music festivals across Europe are drawing record crowds with diverse global lineups.",
+            "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063"
+        },
+        {
+            "title": "Independent Artists Grow Through Social Media Platforms",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Indie Music Daily",
+            "category": "music",
+            "description": "Social media is helping independent musicians reach global audiences without traditional record labels.",
+            "image": "https://images.unsplash.com/photo-1485579149621-3123dd979885"
+        },
+        {
+            "title": "Electronic Dance Music Continues to Dominate Nightlife Scene",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Club Culture Weekly",
+            "category": "music",
+            "description": "EDM remains a leading genre in global nightlife, driving massive festival and club attendance.",
+            "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2"
+        }
+    ],
+    "house-sedign": [
+        {
+            "title": "Minimalist Home Design Trends Dominate 2026 Interiors",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Modern Living Daily",
+            "category": "house_design",
+            "description": "Minimalist interiors with neutral colors, clean lines, and functional furniture are becoming the top design choice worldwide.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Smart Homes Integrate AI-Controlled Lighting Systems",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Future Home Magazine",
+            "category": "house_design",
+            "description": "AI-powered lighting systems now automatically adjust brightness and color based on mood and time of day.",
+            "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+        },
+        {
+            "title": "Open Kitchen Designs Become the Heart of Modern Homes",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Interior Style Journal",
+            "category": "house_design",
+            "description": "Open kitchen layouts are trending as families prefer connected living and dining spaces.",
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba"
+        },
+        {
+            "title": "Eco-Friendly Homes Built with Sustainable Materials Rising",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Green Architecture News",
+            "category": "house_design",
+            "description": "Sustainable housing made from recycled and natural materials is gaining popularity among eco-conscious homeowners.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        },
+        {
+            "title": "Luxury Bathroom Designs Focus on Spa-Like Experiences",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Luxury Home Trends",
+            "category": "house_design",
+            "description": "Modern bathrooms are being transformed into spa-style relaxation spaces with luxury fixtures and lighting.",
+            "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a"
+        },
+        {
+            "title": "Small Apartment Space-Saving Furniture Becomes Popular",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Urban Living Guide",
+            "category": "house_design",
+            "description": "Compact and multi-functional furniture is helping people maximize small living spaces in cities.",
+            "image": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc"
+        },
+        {
+            "title": "Indoor Plants Redefine Modern Home Aesthetics",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Home Nature Weekly",
+            "category": "house_design",
+            "description": "Indoor plants are becoming essential decor elements, improving air quality and home aesthetics.",
+            "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+        },
+        {
+            "title": "Smart Kitchens Revolutionize Cooking Experience",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Tech Home Review",
+            "category": "house_design",
+            "description": "Smart appliances and voice-controlled systems are transforming how people cook and manage kitchens.",
+            "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136"
+        },
+        {
+            "title": "Scandinavian Interior Style Gains Global Popularity",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Design Culture Today",
+            "category": "house_design",
+            "description": "Scandinavian design with simplicity, light colors, and natural materials is trending worldwide.",
+            "image": "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f"
+        },
+        {
+            "title": "Home Office Designs Evolve for Remote Work Era",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Work From Home Journal",
+            "category": "house_design",
+            "description": "Modern home offices now focus on comfort, productivity, and ergonomic furniture for remote workers.",
+            "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36"
+        }
+    ],
+    "performance-training": [
+        {
+            "title": "Elite Athletes Adopt High-Altitude Training for Peak Performance",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Performance Sports Daily",
+            "category": "performance_training",
+            "description": "Professional athletes are increasingly training at high altitudes to improve endurance and oxygen efficiency.",
+            "image": "https://images.unsplash.com/photo-1526401485004-2aa7b0d6b1c0"
+        },
+        {
+            "title": "AI-Powered Training Programs Revolutionize Athletic Performance",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Sports Science Review",
+            "category": "performance_training",
+            "description": "Artificial intelligence is now used to create personalized training plans that optimize strength and recovery.",
+            "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438"
+        },
+        {
+            "title": "Strength Training Gains Importance in Modern Football",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Global Sports Report",
+            "category": "performance_training",
+            "description": "Football teams are focusing more on strength and conditioning to reduce injuries and improve match performance.",
+            "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48"
+        },
+        {
+            "title": "Recovery Training Techniques Help Athletes Avoid Injuries",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Athlete Health Journal",
+            "category": "performance_training",
+            "description": "Modern recovery methods like cryotherapy and massage therapy are helping athletes recover faster.",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b"
+        },
+        {
+            "title": "Sprint Training Programs Improve Speed in Competitive Sports",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Speed & Agility Weekly",
+            "category": "performance_training",
+            "description": "Specialized sprint drills are enhancing speed and explosiveness in athletes across multiple sports.",
+            "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5"
+        },
+        {
+            "title": "Wearable Tech Tracks Athlete Performance in Real Time",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Tech Sports Insider",
+            "category": "performance_training",
+            "description": "Wearable devices now monitor heart rate, speed, and fatigue to improve training efficiency.",
+            "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+        },
+        {
+            "title": "Mental Conditioning Becomes Key Part of Athlete Training",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Mind & Sports Journal",
+            "category": "performance_training",
+            "description": "Sports psychologists are helping athletes improve focus, confidence, and mental resilience.",
+            "image": "https://images.unsplash.com/photo-1526481280695-3c687fd5432c"
+        },
+        {
+            "title": "Functional Training Improves Overall Body Strength and Balance",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Fitness Performance News",
+            "category": "performance_training",
+            "description": "Functional workouts are becoming popular for improving real-world strength and coordination.",
+            "image": "https://images.unsplash.com/photo-1517963879433-6ad2b056d712"
+        },
+        {
+            "title": "Hydration Strategies Boost Athletic Endurance Levels",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Sports Nutrition Daily",
+            "category": "performance_training",
+            "description": "Proper hydration plans are helping athletes maintain stamina during intense training sessions.",
+            "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc"
+        },
+        {
+            "title": "Cross-Training Methods Increase Overall Sports Performance",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Elite Training Report",
+            "category": "performance_training",
+            "description": "Athletes are combining multiple training styles to improve flexibility, endurance, and strength.",
+            "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74"
+        }
+    ],
+    "latest-article": [
+        {
+            "title": "Modern Minimalist Living Rooms Dominate 2026 Interior Trends",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Home Design Daily",
+            "category": "interior_design",
+            "description": "Minimalist living rooms with neutral tones, clean layouts, and functional furniture are becoming the top interior design trend worldwide.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Smart Home Lighting Transforms Interior Ambience",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Modern Living Magazine",
+            "category": "interior_design",
+            "description": "AI-powered lighting systems are changing how homeowners design mood and atmosphere inside their homes.",
+            "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb"
+        },
+        {
+            "title": "Open Kitchen Interior Designs Become the Heart of Modern Homes",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Kitchen & Living Weekly",
+            "category": "interior_design",
+            "description": "Open-plan kitchens are trending as families prefer connected, spacious, and social home layouts.",
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba"
+        },
+        {
+            "title": "Luxury Bathroom Interiors Focus on Spa-Like Comfort",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Luxury Home Trends",
+            "category": "interior_design",
+            "description": "Modern bathrooms are being redesigned into spa-style spaces with warm lighting, glass showers, and natural textures.",
+            "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a"
+        },
+        {
+            "title": "Scandinavian Interior Design Continues Global Popularity",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Design Culture Journal",
+            "category": "interior_design",
+            "description": "Scandinavian style with simplicity, light colors, and natural materials remains a favorite in modern homes.",
+            "image": "https://images.unsplash.com/photo-1501045661006-fcebe0257c3f"
+        },
+        {
+            "title": "Eco-Friendly Exterior Home Designs Gain Momentum",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Green Architecture News",
+            "category": "exterior_design",
+            "description": "Sustainable exterior designs using natural materials and energy-efficient structures are rising in popularity.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        },
+        {
+            "title": "Modern House Facades Embrace Glass and Steel Architecture",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Architectural Home Review",
+            "category": "exterior_design",
+            "description": "Contemporary homes are increasingly using glass and steel for sleek and futuristic exterior designs.",
+            "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455"
+        },
+        {
+            "title": "Outdoor Garden Spaces Become Essential Home Extensions",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Home & Garden Daily",
+            "category": "exterior_design",
+            "description": "Homeowners are investing in outdoor gardens, patios, and green spaces as part of modern living design.",
+            "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+        },
+        {
+            "title": "Smart Exterior Security Systems Redefine Home Safety",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Smart Home Tech Report",
+            "category": "exterior_design",
+            "description": "AI-powered cameras and smart locks are improving safety and convenience in modern exterior home design.",
+            "image": "https://images.unsplash.com/photo-1558002038-1055907df827"
+        },
+        {
+            "title": "Luxury Villa Exterior Designs Inspire Modern Housing Projects",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Luxury Architecture Weekly",
+            "category": "exterior_design",
+            "description": "High-end villas with infinity pools, open terraces, and modern landscaping are shaping new housing trends.",
+            "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae"
+        },
+        {
+            "title": "Warm Earth-Tone Interiors Dominate Modern Home Designs",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Interior Trends Daily",
+            "category": "interior_design",
+            "description": "Earthy colors like beige, terracotta, and olive green are becoming the most popular choices for cozy home interiors.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Luxury Marble Kitchens Redefine Modern Interior Spaces",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Home Luxury Weekly",
+            "category": "interior_design",
+            "description": "Marble countertops and sleek cabinetry are setting new standards for luxury kitchen interiors.",
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba"
+        },
+        {
+            "title": "Biophilic Interior Design Brings Nature Indoors",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Eco Home Journal",
+            "category": "interior_design",
+            "description": "Designers are integrating plants, natural light, and wood textures to create nature-inspired living spaces.",
+            "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+        },
+        {
+            "title": "Compact Apartment Interiors Maximize Small Living Spaces",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Urban Living Guide",
+            "category": "interior_design",
+            "description": "Smart furniture and space-saving layouts are transforming small apartments into functional homes.",
+            "image": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc"
+        },
+        {
+            "title": "Smart Home Automation Shapes Future Interior Design",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Tech Living Magazine",
+            "category": "interior_design",
+            "description": "Voice-controlled systems and automated devices are becoming essential parts of modern interiors.",
+            "image": "https://images.unsplash.com/photo-1558002038-1055907df827"
+        },
+        {
+            "title": "Luxury Outdoor Pools Become Key Exterior Design Feature",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Outdoor Living News",
+            "category": "exterior_design",
+            "description": "Infinity pools and modern water features are redefining luxury exterior home aesthetics.",
+            "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3b2f3a"
+        },
+        {
+            "title": "Modern Garden Lighting Enhances Nighttime Exterior Beauty",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Home Garden Trends",
+            "category": "exterior_design",
+            "description": "Outdoor lighting systems are being used to highlight landscaping and improve nighttime ambiance.",
+            "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+        },
+        {
+            "title": "Wooden Facade Designs Return in Modern Architecture",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Architectural Style Report",
+            "category": "exterior_design",
+            "description": "Natural wood exteriors are making a comeback in modern sustainable home architecture.",
+            "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae"
+        },
+        {
+            "title": "Rooftop Gardens Become Essential Urban Exterior Spaces",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Urban Green Living",
+            "category": "exterior_design",
+            "description": "City homes are increasingly adding rooftop gardens for relaxation and green living.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        },
+        {
+            "title": "Glass Wall Homes Redefine Modern Exterior Architecture",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Modern Architecture Today",
+            "category": "exterior_design",
+            "description": "Glass walls and open views are becoming a signature feature of contemporary home designs.",
+            "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455"
+        },
+        {
+            "title": "Minimalist Interior Bedrooms Promote Better Sleep Quality",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Sleep & Design Journal",
+            "category": "interior_design",
+            "description": "Simple bedroom layouts with soft lighting are improving sleep and relaxation quality.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Outdoor Fire Pit Designs Become Backyard Focal Points",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Outdoor Lifestyle Weekly",
+            "category": "exterior_design",
+            "description": "Fire pits are becoming popular features in modern backyards for social gatherings and comfort.",
+            "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3b2f3a"
+        },
+        {
+            "title": "Luxury Entrance Designs Elevate First Impressions of Homes",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Elite Home Design",
+            "category": "exterior_design",
+            "description": "Grand entrances with modern doors and lighting are enhancing curb appeal for luxury homes.",
+            "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455"
+        },
+        {
+            "title": "Floating Staircase Interiors Become Modern Design Statement",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Interior Architecture News",
+            "category": "interior_design",
+            "description": "Floating staircases are trending as a stylish centerpiece in modern home interiors.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Stone Exterior Walls Bring Natural Aesthetic to Modern Homes",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Green Architecture Digest",
+            "category": "exterior_design",
+            "description": "Stone cladding is being used to give homes a natural and durable exterior appearance.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        },
+        {
+            "title": "Warm Earth-Tone Interiors Dominate Modern Home Designs",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Interior Trends Daily",
+            "category": "interior_design",
+            "description": "Earthy colors like beige, terracotta, and olive green are becoming the most popular choices for cozy home interiors.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Luxury Marble Kitchens Redefine Modern Interior Spaces",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Home Luxury Weekly",
+            "category": "interior_design",
+            "description": "Marble countertops and sleek cabinetry are setting new standards for luxury kitchen interiors.",
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba"
+        },
+        {
+            "title": "Biophilic Interior Design Brings Nature Indoors",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Eco Home Journal",
+            "category": "interior_design",
+            "description": "Designers are integrating plants, natural light, and wood textures to create nature-inspired living spaces.",
+            "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+        },
+        {
+            "title": "Compact Apartment Interiors Maximize Small Living Spaces",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Urban Living Guide",
+            "category": "interior_design",
+            "description": "Smart furniture and space-saving layouts are transforming small apartments into functional homes.",
+            "image": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc"
+        },
+        {
+            "title": "Smart Home Automation Shapes Future Interior Design",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Tech Living Magazine",
+            "category": "interior_design",
+            "description": "Voice-controlled systems and automated devices are becoming essential parts of modern interiors.",
+            "image": "https://images.unsplash.com/photo-1558002038-1055907df827"
+        },
+        {
+            "title": "Luxury Outdoor Pools Become Key Exterior Design Feature",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Outdoor Living News",
+            "category": "exterior_design",
+            "description": "Infinity pools and modern water features are redefining luxury exterior home aesthetics.",
+            "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3b2f3a"
+        },
+        {
+            "title": "Modern Garden Lighting Enhances Nighttime Exterior Beauty",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Home Garden Trends",
+            "category": "exterior_design",
+            "description": "Outdoor lighting systems are being used to highlight landscaping and improve nighttime ambiance.",
+            "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+        },
+        {
+            "title": "Wooden Facade Designs Return in Modern Architecture",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Architectural Style Report",
+            "category": "exterior_design",
+            "description": "Natural wood exteriors are making a comeback in modern sustainable home architecture.",
+            "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae"
+        },
+        {
+            "title": "Rooftop Gardens Become Essential Urban Exterior Spaces",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Urban Green Living",
+            "category": "exterior_design",
+            "description": "City homes are increasingly adding rooftop gardens for relaxation and green living.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        },
+        {
+            "title": "Glass Wall Homes Redefine Modern Exterior Architecture",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Modern Architecture Today",
+            "category": "exterior_design",
+            "description": "Glass walls and open views are becoming a signature feature of contemporary home designs.",
+            "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455"
+        },
+        {
+            "title": "Minimalist Interior Bedrooms Promote Better Sleep Quality",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Sleep & Design Journal",
+            "category": "interior_design",
+            "description": "Simple bedroom layouts with soft lighting are improving sleep and relaxation quality.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Outdoor Fire Pit Designs Become Backyard Focal Points",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Outdoor Lifestyle Weekly",
+            "category": "exterior_design",
+            "description": "Fire pits are becoming popular features in modern backyards for social gatherings and comfort.",
+            "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3b2f3a"
+        },
+        {
+            "title": "Luxury Entrance Designs Elevate First Impressions of Homes",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Elite Home Design",
+            "category": "exterior_design",
+            "description": "Grand entrances with modern doors and lighting are enhancing curb appeal for luxury homes.",
+            "image": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455"
+        },
+        {
+            "title": "Floating Staircase Interiors Become Modern Design Statement",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Interior Architecture News",
+            "category": "interior_design",
+            "description": "Floating staircases are trending as a stylish centerpiece in modern home interiors.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Stone Exterior Walls Bring Natural Aesthetic to Modern Homes",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Green Architecture Digest",
+            "category": "exterior_design",
+            "description": "Stone cladding is being used to give homes a natural and durable exterior appearance.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        }
+    ]
+}
