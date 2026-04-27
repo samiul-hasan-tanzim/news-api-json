@@ -1126,5 +1126,235 @@
             "description": "Stone cladding is being used to give homes a natural and durable exterior appearance.",
             "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
         }
+    ],
+    "make-it-mordern": [
+        {
+            "title": "AI-Powered Smart Homes Adjust Temperature and Lighting Automatically",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Future Home Tech Daily",
+            "category": "smart_home",
+            "description": "New AI systems are allowing homes to automatically control temperature, lighting, and energy usage based on user habits.",
+            "image": "https://images.unsplash.com/photo-1558002038-1055907df827"
+        },
+        {
+            "title": "Ultra-Modern Glass Villas Redefine Luxury Living Standards",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Luxury Architecture Weekly",
+            "category": "modern_home",
+            "description": "Glass-designed villas with open layouts and panoramic views are becoming the new symbol of modern luxury homes.",
+            "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae"
+        },
+        {
+            "title": "Smart Kitchen Appliances Fully Automate Cooking Experience",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Home Innovation Report",
+            "category": "smart_home",
+            "description": "AI-driven kitchen devices can now prepare meals, monitor recipes, and reduce cooking time significantly.",
+            "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136"
+        },
+        {
+            "title": "Minimal Smart Apartments Become Future Urban Living Trend",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Urban Living Future",
+            "category": "modern_home",
+            "description": "Compact smart apartments with automation and space-saving designs are shaping the future of city living.",
+            "image": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc"
+        },
+        {
+            "title": "Voice-Controlled Home Systems Become Standard in New Smart Houses",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Smart Living Daily",
+            "category": "smart_home",
+            "description": "Voice assistants now control lighting, security, and appliances in most newly built smart homes.",
+            "image": "https://images.unsplash.com/photo-1558002038-1055907df827"
+        },
+        {
+            "title": "Eco-Friendly Smart Homes Reduce Energy Bills by 40%",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Green Home Report",
+            "category": "modern_home",
+            "description": "New sustainable home technologies are helping homeowners significantly reduce electricity and water usage.",
+            "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6"
+        },
+        {
+            "title": "AI Security Cameras Enhance Home Safety with Real-Time Alerts",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Home Security Tech News",
+            "category": "smart_home",
+            "description": "Advanced AI cameras can now detect unusual activity and send instant alerts to homeowners.",
+            "image": "https://images.unsplash.com/photo-1581091870622-1e7b0b6f3d0b"
+        },
+        {
+            "title": "Open-Concept Smart Living Rooms Dominate New Housing Projects",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Modern Interior Weekly",
+            "category": "modern_home",
+            "description": "New housing designs focus on open layouts combined with integrated smart technology for comfort and style.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        }
+    ],
+    "holiday-recipes": [
+        {
+            "title": "Christmas Gingerbread Cookies Become Global Holiday Favorite",
+            "publish_date": "2026-12-20",
+            "author_publisher": "Holiday Kitchen Daily",
+            "category": "holiday_recipes",
+            "description": "Classic gingerbread cookies decorated with icing are trending worldwide as a must-have Christmas treat.",
+            "image": "https://images.unsplash.com/photo-1607478900766-efe13248b125"
+        },
+        {
+            "title": "Thanksgiving Roast Turkey Recipes Go Viral Online",
+            "publish_date": "2026-11-25",
+            "author_publisher": "Festive Food Journal",
+            "category": "holiday_recipes",
+            "description": "Traditional roast turkey recipes with modern seasoning twists are dominating Thanksgiving cooking trends.",
+            "image": "https://images.unsplash.com/photo-1604152135912-04a022e23696"
+        },
+        {
+            "title": "New Year Celebration Cakes Add Spark to Festive Tables",
+            "publish_date": "2026-12-30",
+            "author_publisher": "Sweet Holiday Magazine",
+            "category": "holiday_recipes",
+            "description": "Colorful and creative cakes are becoming the centerpiece of New Year celebrations worldwide.",
+            "image": "https://images.unsplash.com/photo-1542826438-bd32f43d626f"
+        },
+        {
+            "title": "Easter Chocolate Egg Recipes Gain Massive Popularity",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Holiday Dessert Weekly",
+            "category": "holiday_recipes",
+            "description": "Homemade chocolate eggs with creative fillings are trending during Easter celebrations.",
+            "image": "https://images.unsplash.com/photo-1617196035154-1e7b0c6f3d0b"
+        },
+        {
+            "title": "Diwali Sweets Traditional Recipes See Modern Twists",
+            "publish_date": "2026-10-22",
+            "author_publisher": "Festival Food Report",
+            "category": "holiday_recipes",
+            "description": "Traditional Indian sweets like laddoos and barfi are being recreated with healthier modern ingredients.",
+            "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+        },
+        {
+            "title": "Valentine’s Day Chocolate Desserts Break Social Media Records",
+            "publish_date": "2026-02-14",
+            "author_publisher": "Romantic Recipes Today",
+            "category": "holiday_recipes",
+            "description": "Chocolate-based desserts are trending globally as couples share homemade Valentine treats.",
+            "image": "https://images.unsplash.com/photo-1541782814456-0a5f7b3b5f6c"
+        },
+        {
+            "title": "Halloween Pumpkin Recipes Become Seasonal Cooking Sensation",
+            "publish_date": "2026-10-31",
+            "author_publisher": "Spooky Kitchen News",
+            "category": "holiday_recipes",
+            "description": "Pumpkin pies, soups, and desserts are dominating Halloween cooking trends this year.",
+            "image": "https://images.unsplash.com/photo-1506806732259-39c2d0268443"
+        }
+    ],
+    "most-popular": [
+        {
+            "title": "AI Breakthrough Revolutionizes Everyday Life",
+            "publish_date": "2026-04-27",
+            "author_publisher": "Global Tech News",
+            "category": "technology",
+            "description": "A new AI system is transforming how people work, learn, and interact with digital services worldwide.",
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b"
+        },
+        {
+            "title": "World Football Final Breaks Global Viewership Records",
+            "publish_date": "2026-04-26",
+            "author_publisher": "Sports Global Network",
+            "category": "sports",
+            "description": "The latest football final became the most-watched sporting event in history.",
+            "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2"
+        },
+        {
+            "title": "Stock Markets Surge to Record Highs Worldwide",
+            "publish_date": "2026-04-25",
+            "author_publisher": "Financial Daily Report",
+            "category": "business",
+            "description": "Global markets continue to rise as investor confidence reaches new levels.",
+            "image": "https://images.unsplash.com/photo-1559526324-593bc073d938"
+        },
+        {
+            "title": "Healthy Diet Trends Go Viral Across Social Media",
+            "publish_date": "2026-04-24",
+            "author_publisher": "Nutrition World",
+            "category": "health",
+            "description": "Balanced diets and clean eating habits are trending globally on social platforms.",
+            "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061"
+        },
+        {
+            "title": "Luxury Travel Destinations See Massive Tourist Boom",
+            "publish_date": "2026-04-23",
+            "author_publisher": "Global Travel Digest",
+            "category": "travel",
+            "description": "Exotic destinations are experiencing record-breaking tourist visits this year.",
+            "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+        },
+        {
+            "title": "Smart Homes Become Standard in Modern Cities",
+            "publish_date": "2026-04-22",
+            "author_publisher": "Home Tech Daily",
+            "category": "smart_home",
+            "description": "AI-powered homes with automation features are rapidly becoming mainstream.",
+            "image": "https://images.unsplash.com/photo-1558002038-1055907df827"
+        },
+        {
+            "title": "Streaming Platforms Change the Music Industry Forever",
+            "publish_date": "2026-04-21",
+            "author_publisher": "Music Industry Weekly",
+            "category": "music",
+            "description": "Digital streaming continues to dominate how people discover and listen to music.",
+            "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+        },
+        {
+            "title": "Home Interior Design Trends Focus on Minimalism",
+            "publish_date": "2026-04-20",
+            "author_publisher": "Interior Design Today",
+            "category": "interior_design",
+            "description": "Minimalist interiors with clean layouts and natural tones are trending globally.",
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+        },
+        {
+            "title": "Fitness Apps Drive Global Health Transformation",
+            "publish_date": "2026-04-19",
+            "author_publisher": "Fitness Tech News",
+            "category": "fitness",
+            "description": "Mobile fitness apps are helping millions maintain healthy lifestyles.",
+            "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd"
+        },
+        {
+            "title": "Plant-Based Recipes Become Global Food Trend",
+            "publish_date": "2026-04-18",
+            "author_publisher": "Food & Lifestyle Weekly",
+            "category": "recipes",
+            "description": "Plant-based diets are rapidly gaining popularity for health and sustainability.",
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba"
+        },
+        {
+            "title": "E-Sports Events Attract Millions of Viewers Worldwide",
+            "publish_date": "2026-04-17",
+            "author_publisher": "Gaming Sports Network",
+            "category": "sports",
+            "description": "Competitive gaming tournaments are now rivaling traditional sports in popularity.",
+            "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e"
+        },
+        {
+            "title": "Remote Work Lifestyle Continues to Expand Globally",
+            "publish_date": "2026-04-16",
+            "author_publisher": "Work & Life Report",
+            "category": "lifestyle",
+            "description": "Remote jobs are reshaping how people live, travel, and manage work-life balance.",
+            "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+        },
+        {
+            "title": "Mental Health Awareness Campaigns Gain Massive Support",
+            "publish_date": "2026-04-15",
+            "author_publisher": "Health Awareness Journal",
+            "category": "health",
+            "description": "Global campaigns are helping reduce stigma around mental health issues.",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773"
+        }
     ]
 }
